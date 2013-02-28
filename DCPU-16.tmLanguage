@@ -4,8 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>s</string>
-		<string>S</string>
+		<string>dasm</string>
 		<string>dasm16</string>
 	</array>
 	<key>name</key>
